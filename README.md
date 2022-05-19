@@ -1,2 +1,2 @@
-# challenge-01
+print("hai)
 
